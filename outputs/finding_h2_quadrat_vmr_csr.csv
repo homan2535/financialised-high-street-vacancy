@@ -1,0 +1,87 @@
+authority,n_sites,quadrats,VMR_observed,VMR_CSR_mean,p_value,clustered_p<0.05
+Leeds,119,2112,6.641,1.0,0.001,True
+Birmingham,110,1419,7.45,1.0,0.001,True
+Camden,103,140,7.06,1.046,0.001,True
+West Northamptonshire,90,3127,4.149,1.001,0.001,True
+Manchester,72,630,7.525,1.008,0.001,True
+"Bristol, City of",65,420,6.538,1.001,0.001,True
+"Bournemouth, Christchurch and Poole",64,400,3.559,1.0,0.001,True
+Somerset,63,12877,3.344,1.001,0.001,True
+Cheshire West and Chester,61,1682,8.734,1.002,0.001,True
+Wiltshire,60,10125,4.561,1.0,0.001,True
+Southampton,56,98,11.821,1.025,0.001,True
+Hammersmith and Fulham,55,104,9.38,1.08,0.001,True
+County Durham,54,5467,4.212,1.0,0.001,True
+Bradford,53,1160,6.917,1.001,0.001,True
+Milton Keynes,51,315,5.23,1.004,0.001,True
+Cardiff,51,289,6.667,0.994,0.001,True
+York,50,128,7.889,1.003,0.001,True
+Stoke-on-Trent,49,216,6.12,1.014,0.001,True
+Norwich,48,91,6.431,1.028,0.001,True
+Dudley,48,252,7.81,1.01,0.001,True
+Nottingham,46,286,8.1,1.007,0.001,True
+Coventry,46,270,4.656,1.012,0.001,True
+Bromley,46,400,11.581,1.003,0.001,True
+North Yorkshire,45,36408,4.199,1.001,0.001,True
+City of London,45,10,4.1,0.945,0.001,True
+Buckinghamshire,45,5472,4.947,1.0,0.001,True
+Tower Hamlets,43,63,10.829,0.989,0.001,True
+Brighton and Hove,42,152,5.2,1.018,0.001,True
+Derby,41,156,7.225,1.019,0.001,True
+South Gloucestershire,41,1110,4.475,1.002,0.001,True
+Leicester,40,165,7.558,0.997,0.001,True
+North Northamptonshire,40,1320,4.32,1.0,0.001,True
+Reading,40,30,7.317,1.11,0.001,True
+Peterborough,39,210,4.353,0.998,0.001,True
+Gloucester,38,56,5.164,0.985,0.001,True
+Thurrock,37,24,13.675,1.041,0.001,True
+Cambridge,35,35,4.343,1.06,0.001,True
+Southwark,35,99,2.475,1.008,0.001,True
+Watford,34,36,10.703,1.161,0.001,True
+Sunderland,33,160,5.824,1.002,0.001,True
+Kensington and Chelsea,33,63,2.779,0.997,0.001,True
+Plymouth,31,156,6.35,1.005,0.001,True
+Swindon,31,176,4.243,1.019,0.001,True
+Cumberland,30,7650,4.329,1.0,0.001,True
+Chelmsford,30,480,10.871,1.002,0.001,True
+Colchester,30,196,3.647,0.995,0.001,True
+Warwick,30,144,7.658,1.023,0.001,True
+Stockton-on-Tees,29,198,4.164,0.998,0.001,True
+Lincoln,28,56,6.429,0.976,0.001,True
+Crawley,27,84,4.901,1.002,0.001,True
+Harlow,26,64,6.594,1.02,0.001,True
+Thanet,25,117,6.546,0.993,0.001,True
+Telford and Wrekin,25,420,9.02,1.001,0.001,True
+Ashford,25,594,4.558,1.002,0.001,True
+Maidstone,24,392,9.772,1.006,0.001,True
+Bedford,24,368,2.851,0.998,0.001,True
+Dorset,24,7565,2.08,1.0,0.001,True
+Blackpool,24,91,5.153,1.032,0.001,True
+Chesterfield,23,16,8.084,1.368,0.001,True
+Canterbury,23,345,6.499,1.0,0.001,True
+Rushmoor,23,20,10.198,0.965,0.001,True
+North Hertfordshire,22,1656,4.805,0.998,0.001,True
+East Staffordshire,22,759,13.516,0.998,0.001,True
+Eastbourne,22,60,5.088,0.983,0.001,True
+Preston,22,91,5.486,1.031,0.001,True
+Dartford,21,32,9.391,1.062,0.001,True
+Basingstoke and Deane,21,507,7.34,1.0,0.001,True
+Charnwood,21,552,4.105,0.997,0.001,True
+Tunbridge Wells,20,40,4.8,0.999,0.001,True
+Southend-on-Sea,20,72,3.922,1.023,0.001,True
+Central Bedfordshire,19,3074,2.678,1.0,0.001,True
+East Riding of Yorkshire,19,8265,3.84,0.999,0.001,True
+Lancaster,19,1280,7.196,1.001,0.001,True
+Torbay,18,91,5.136,1.006,0.001,True
+Brent,18,105,3.051,0.999,0.001,True
+North Devon,18,12,4.5,1.371,0.001,True
+Isle of Wight,17,667,3.798,0.998,0.001,True
+South Oxfordshire,17,2499,2.523,1.0,0.001,True
+Guildford,17,12,6.172,1.437,0.001,True
+Darlington,16,8,4.75,1.095,0.001,True
+Braintree,16,462,2.715,0.999,0.001,True
+Hartlepool,15,20,4.25,1.017,0.001,True
+Fareham,14,182,3.923,0.998,0.001,True
+Spelthorne,14,100,6.003,1.016,0.001,True
+Cannock Chase,12,320,2.129,1.0,0.001,True
+Sevenoaks,11,1260,1.9,0.997,0.001,True

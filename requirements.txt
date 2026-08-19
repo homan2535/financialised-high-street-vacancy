@@ -1,0 +1,14 @@
+contextily
+esda
+gdown
+geopandas
+ipykernel
+jupyter
+libpysal
+matplotlib
+numpy
+pandas
+pyarrow
+scikit-learn
+scipy
+shapely
